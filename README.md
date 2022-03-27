@@ -1,6 +1,6 @@
 # TryinRealHard
 github for bootcamp
-
+For whatever reason my load balancer is not showing up in my topology, but everything else runs, it's created and is there. Can show proof if needed :)
 ![image](https://user-images.githubusercontent.com/94760891/160298058-c5239688-d5c3-4106-9e98-7fd5f259d474.png)
 
 Automated ELK Stack Deployment
